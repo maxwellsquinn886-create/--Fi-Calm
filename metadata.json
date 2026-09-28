@@ -1,0 +1,6 @@
+{
+  "name": "Lo-Fi Calm",
+  "description": "تطبيق أصوات الاسترخاء والدراسة مع مقاطع Lo-Fi ومؤثرات صوتية هادئة ومؤقت تركيز بومودورو وواجهة متحركة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
